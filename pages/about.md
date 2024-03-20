@@ -5,11 +5,12 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Fueled by a passion for Data Science and armed with 4+ years of experience, I transform complex data into actionable insights using cutting-edge analytical tools. 
+Deeply passionate about machine learning and AI, constantly seeking to optimize processes, enhance efficiencies, and push the boundaries of innovation. 
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Let's connect and explore opportunities to leverage data science for transformative impact!
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Let's turn "what-ifs" into "wows" together!
 
 [Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
 
